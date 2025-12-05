@@ -4,7 +4,7 @@ A simple temperature converter web app that converts between Celsius, Fahrenheit
 
 ## Features
 
-- Convert between 6 different temperature scales
+- Convert between six different temperature scales
 - Clean and responsive design
 - Instant conversion results
 - Works on mobile and desktop
@@ -18,6 +18,7 @@ A simple temperature converter web app that converts between Celsius, Fahrenheit
 
 ## Technologies Used
 
+- C
 - HTML
 - CSS
 - JavaScript
