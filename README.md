@@ -24,4 +24,4 @@ A simple temperature converter web app that converts between Celsius, Fahrenheit
 
 ## Live Demo
 
-Check it out at: [quicktemp.netlify.app](https://quicktemp.netlify.app)
+Check it out at: [quick-temp.netlify.app](https://quick-temp.netlify.app)
