@@ -18,7 +18,6 @@ A simple temperature converter web app that converts between Celsius, Fahrenheit
 
 ## Technologies Used
 
-- C
 - HTML
 - CSS
 - JavaScript
