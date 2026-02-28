@@ -1,18 +1,14 @@
 # QuickTemp
 
-A simple temperature converter web app that converts between Celsius, Fahrenheit, and Kelvin.
+A responsive temperature converter web app that converts between Celsius, Fahrenheit, and Kelvin.
 
 ## Features
 
-- Convert between six different temperature scales
-- Works on mobile and desktop
+- Convert between different temperature scales
+- Navigate with ease due to responsive design
 
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
-
-## Live Demo
-
-Check it out at: [quick-temp.netlify.app](https://quick-temp.netlify.app)
